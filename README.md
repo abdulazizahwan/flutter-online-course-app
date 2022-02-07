@@ -4,11 +4,11 @@ A new Flutter Online Course application. Designed by Asril Mochammad, Code with 
 
 # Online Course App UI Design - Flutter UI Best Practice
 
-## [Watch it on YouTube](https://youtu.be/1qybIXHdvVU)
+## [Watch it on YouTube](https://youtu.be/Egh_L1NnuQk)
 
 **Project Starter Code**
 
-- flutter_online_course_app.zip [get file](https://gum.co/...)
+- flutter_online_course_app.zip [get file](https://abdulazizahwan.gumroad.com/l/flutterocaui)
 
 **Packages we are using:**
 
